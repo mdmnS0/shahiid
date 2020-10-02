@@ -1,0 +1,2082 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>Shahiid4up</h1>
+<p>This is a paragraph.</p>
+<p><b><a href="default.asp" target="_blank">https://www.w3schools.com/css/css_link.asp</a></b></p>
+</body>
+</html>
+
+
+<style> 
+#example1 {
+  background-image: url(https://live.staticflickr.com/4566/24767771858_72f57b2632_z.jpg), url(paper.gif);
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+  padding: 15px;
+}
+</style>
+</head>
+<body>
+<!DOCTYPE html>
+<html dir="rtl" lang="en-US">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#4b367c">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="Add to Home">
+<meta name="apple-mobile-web-app-title" content="Add to Home">
+<meta name=”msapplication-TileColor” content=”#ffffff">
+<script src="/cdn-cgi/apps/head/r0I_k9ci9fpTUkqJByRoWeaNw5M.js"></script><link rel="icon" sizes="192x192" href="android-icon-192x192.png">
+<link rel="manifest" href="/manifest.json">
+<title>Shahiid4up
+</title>
+<link rel="stylesheet" media="all" href="/assets/application-35f7866e7d3f4d6bc6ff90a6fea2773aaf3a41dff0529dff2f1bea0fffef3699.css" />
+<script src="/assets/application-4707a86191cb2aa7af1e2b34b9705733a2f470f6144fb674a7b180f5526c7999.js"></script>
+<link href="https://plus.google.com/+Shahiid4up
+com" rel="publisher"></link>
+<link href="/favicon.ico" rel="icon" type="image/x-icon"></link>
+<meta content="https://www.Shahiid4up.com/" name="og:site_name" />
+<meta content="https://www.Shahiid4up.com/" name="identifier-URL" />
+<meta content="Shahiid4up.com" name="Designer" />
+<meta content="Shahiid4up.com" name="Copyright" />
+<meta content="Shahiid4up.com" name="Author" />
+<meta content="All" name="Audience" />
+<meta content="Global" name="Distribution" />
+<meta content="general" name="rating" />
+<meta content="info[at]Shahiid4up.com" property="og:email" />
+<meta content="Shahiid4up" name="generator" />
+<meta content="website" property="og:type" />
+<meta content="@Shahiid4up" name="twitter:site" />
+<meta content="مشاهدة وتحميل مسلسلات وافلام انمي" name="application-name" />
+<meta content="مشاهدة وتحميل مسلسلات وافلام انمي" name="msapplication-tooltip" />
+<meta content="مشاهدة وتحميل مسلسلات وافلام انمي" name="subject" />
+<meta content="ar-sa" name="language" />
+<meta content="مشاهدة وتحميل مسلسلات وافلام انمي" name="abstract" />
+<meta content="مشاهدة وتحميل مسلسلات وافلام انمي" name="topic" />
+<meta content="مشاهدة وتحميل مسلسلات وافلام انمي" name="summary" />
+<meta content="مشاهدة وتحميل مسلسلات وافلام انمي" name="Classification" />
+<meta content="info[at]Shahiid4up.com" name="reply-to" />
+<meta content="مشاهدة وتحميل مسلسلات وافلام انمي" name="owner" />
+<meta content="submission" name="directory" />
+<meta content="مشاهدة وتحميل مسلسلات وافلام انمي" name="category" />
+<meta content="Worldwide" name="coverage" />
+<meta content="مشاهدة وتحميل مسلسلات وافلام انمي" name="publisher" />
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<meta charset="utf-8" />
+<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+<meta content="width=device-width, initial-scale=1" name="viewport" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="aKf9oGcuq4UzrGyKgM3rccrgUjCHdUQQR1HmTNe9wK896bNGBFm545ByW+wpyLa41yKbtNd3ZGSUBN0AYjK7gg==" />
+</head>
+<body class="" data-user-id=161175>
+
+<header class="batnie-header">
+<div class="row align-items-center">
+<div class="col-xl-8 col-md-6 col-7">
+<div class="brand-wrap">
+<a href="javascript:void(0);" class="batnie-toggle">
+<span class="toggle-separator"></span>
+</a>
+<div class="batnie-brand">
+<a href="/">Shahiid4up</a>
+</div>
+</div>
+<nav class="navbar navbar-expand d-inline-block">
+<ul class="navbar-nav">
+<li class="nav-item hide-m">
+<a class="nav-link" href="/animes">الانمي</a>
+</li>
+<li class="nav-item hide-m">
+<a class="nav-link" href="/movies">الأفلام</a>
+</li>
+<li class="nav-item hide-m">
+<a class="nav-link" href="/pages/in-progress">الأخبار</a>
+</li>
+<li class="nav-item hide-m">
+<a class="nav-link" href="/walls">الحائط</a>
+</li>
+<li class="nav-item d-xl-none">
+<a href="javascript:void(0);" class="nav-link search-toggle"><i class="far fa-search"></i></a>
+</li>
+<li class="nav-item nav-item-no-before nav-item-more dropdown">
+<a href="javascript:void(0)" class="nav-link dropdown-toggle" data-toggle="dropdown"><i class="fas fa-ellipsis-h"></i></a>
+<div class="dropdown-menu">
+<div class="dropdown-title">خدماتنا لكم</div>
+<div class="row">
+<div class="col-4">
+<a href="/dashboard/newest_episodes" class="quick-link">
+<img width="39" alt="Latest episodes" src="/assets/icons/icon3@1x-e8360bbab3da25b2a9c3d8605e01e37f15423ed8b4b2d454465b056e6c22aecb.svg" />
+<span class="quick-link-title">آخر الحلقات</span>
+</a>
+</div>
+<div class="col-4">
+<a href="/dashboard/checked_animes" class="quick-link">
+<img width="39" alt="" src="/assets/icons/icon4@1x-f757de57b5be6b4417073047a44968d59dbb99d57c6253b6e4d2f9fa426dc87f.svg" />
+<span class="quick-link-title">انميات تم التحقق منها</span>
+</a>
+</div>
+<div class="col-4">
+<a href="/playlists" class="quick-link">
+<img width="39" alt="" src="/assets/icons/icon5@1x-68ac4934bc4f70524e21fc5c3a2e9378a4a3db7e06a78e66aaa8e13cf2682783.svg" />
+<span class="quick-link-title">مجموعات مقترحة</span>
+</a>
+</div>
+<div class="col-4">
+<a href="/schedule" class="quick-link">
+<img width="39" alt="" src="/assets/icons/icon6@1x-17b36f7f3ec0ac997d5a61b59920cee91256c52c64b99d25e6d895344a117dad.svg" />
+<span class="quick-link-title">مواعيد البث</span>
+</a>
+</div>
+<div class="col-4">
+<a href="/pages/request" class="quick-link">
+<img width="39" alt="Requests" src="/assets/icons/icon7@1x-c0d22af11a87d45e68d670eca7202569ca10397bbf24d1fb23cb9a598ea23b04.svg" />
+<span class="quick-link-title">طلبات</span>
+</a>
+</div>
+<div class="col-4">
+<a href="/walls" class="quick-link">
+<img width="39" alt="The wall" src="/assets/icons/icon8@1x-0723a2caaf434d56665d7d584e37ea44c5da124639c3bb8928b7a8b524c003c1.svg" />
+<span class="quick-link-title">الحائط</span>
+</a>
+</div>
+<div class="col-4">
+<a href="/pages/staff" class="quick-link">
+<img width="39" alt="Crew" src="/assets/icons/icon9@1x-f3090bc86955a097d265a30fd7278c60d1b7ee2c303372d4ba3bf7ee67475269.svg" />
+<span class="quick-link-title">طاقم العمل</span>
+</a>
+</div>
+<div class="col-4">
+<a href="/pages/discord" class="quick-link">
+<img width="39" alt="Discovery" src="/assets/icons/icon10@1x-65d463f0b4a5bedf54fd843000640e758c496fa1137dcb89ad0c01dbe4371149.svg" />
+<span class="quick-link-title">ديسكورد</span>
+</a>
+</div>
+<div class="col-4">
+<a href="/pages/tutorial" class="quick-link">
+<img width="39" alt="Explained Ok Anime" src="/assets/icons/icon11@1x-4d050aee5f115bf32d63f268d28720da9c79218afe72c5f7f57801b7e055f119.svg" />
+<span class="quick-link-title">شرح اوك انمي</span>
+</a>
+</div>
+</div>
+</div>
+<div class="mobile-nav">
+<div class="dropdown-menu2">
+<div class="asidebar-menu-item">
+<ul class="top-black-nav">
+<li><a href="javascript:void(0)">مكتبتي</a></li>
+<li><a href="javascript:void(0)">اكمل المتابعة</a></li>
+</ul>
+</div>
+<div class="asidebar-menu-item">
+<ul>
+<li><a href="/animes">الانمي</a></li>
+<li><a href="/movies">الافلام</a></li>
+<li><a href="/under_construction">الأخبار</a></li>
+<li><a href="/walls">الحائط</a></li>
+</ul>
+</div>
+<div class="asidebar-menu-item">
+<ul>
+<li><a href="/dashboard/newest_episodes">آخر الحلقات</a></li>
+<li><a href="/dashboard/checked_animes">انميات تم التحقق منها</a></li>
+<li><a href="/playlists">مجموعات مقترحة</a></li>
+<li><a href="/schedule">مواعيد البث</a></li>
+<li><a href="/pages/request">طلبات</a></li>
+<li><a href="/pages/staff">طاقم العمل</a></li>
+<li><a href="/pages/discord">ديسكورد</a></li>
+<li><a href="/pages/tutorial">شرح اوك انمي</a></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</nav>
+<form class="form-inline form-search" id="search-form" action=/search>
+<div class="form-wrap">
+<input type="text" name="search" placeholder="بحث" onkeyup="SearchAnimeFunction()" class="form-control" id="Search" autocomplete="off">
+<div class="search-results">
+<div class="batnie-vertical-scroll">
+<ul id="SearchResults">
+</ul>
+</div>
+<div class="dropdown-footer">
+<a href="/search" class="dropdown-footer-link">البحث المتقدم</a>
+</div>
+</div>
+<div class="search-btn-wrap">
+<ul class="navbar-nav">
+<li class="nav-item dropdown">
+<a href="/animes" class="nav-link dropdown-toggle" data-toggle="dropdown"><span class="form-search-text">الكل</span></a>
+<div class="dropdown-menu dropdown-menu-right search-categories">
+<div class="form-check">
+<label for="All" class="form-check-label">
+<input type="radio" name="All" value="all" class="form-check-input" id="All">
+الكل
+</label>
+</div>
+<div class="form-check">
+<label for="Anime" class="form-check-label">
+<input type="radio" name="All" value="anime" class="form-check-input" id="Anime">
+الأنمي
+</label>
+</div>
+<div class="form-check">
+<label for="Movies" class="form-check-label">
+<input type="radio" name="All" value="movies" class="form-check-input" id="Movies">
+الأفلام
+</label>
+</div>
+<div class="form-check">
+<label for="ova" class="form-check-label">
+<input type="radio" name="All" value="ova" class="form-check-input" id="ova">
+اوفا
+</label>
+</div>
+<div class="form-check">
+<label for="ona" class="form-check-label">
+<input type="radio" name="All" value="ona" class="form-check-input" id="ona">
+اونا
+</label>
+</div>
+<div class="form-check">
+<label for="Member" class="form-check-label">
+<input type="radio" name="All" value="member" class="form-check-input" id="Member">
+عضو
+</label>
+</div>
+</div>
+</li>
+</ul>
+<button class="btn" type="submit"><i class="far fa-search"></i></button>
+</div>
+</div>
+</form>
+</div>
+<div class="col-xl-4 col-md-6 col-5">
+<div class="header-links">
+<nav class="navbar navbar-expand float-left">
+<ul class="navbar-nav">
+<li class="nav-item nav-item-no-before nav-item-winner dropdown hide-m">
+<a href="javascript:void(0)" class="nav-link dropdown-toggle" data-toggle="dropdown">
+<img width="21" alt="Winner" src="/assets/icons/icon2@1x-fc0442fabd51c892e69bf5feff9127400bb9ce8f0575698fc8c1a77e7b360b3b.svg" />
+</a>
+<div class="dropdown-menu">
+<div class="winner-notification">
+<div class="batnie-icon">
+<img width="110" alt="Winner" src="/assets/icons/icon12@1x-117799c8d2d3f3a05dc2b627704013f2591775b17e2f9c0a935fc9bf163b5e22.svg" /></div>
+<h6 class="winner-title">رقي حسابك، و كن باتريون</h6>
+<p>احصل على مزايا و غنائم عديدة و ادعم الموقع على الاستمرار و التطور</p>
+<div class="book-items-wrap">
+<div class="row">
+<div class="col-sm-4 col-6">
+<a href="javascript:void(0)" class="book-item">
+<img width="55" alt="إلا علانات" src="/assets/icons/icon13@1x-5342c355c828d9587deeae200aa8ca5ab7a909f7280cce84e7413dc9bc360307.svg" />
+<span>لا إعلانات</span>
+</a>
+</div>
+<div class="col-sm-4 col-6">
+<a href="javascript:void(0)" class="book-item">
+<img width="55" alt="اللاولوية" src="/assets/icons/icon14@1x-27af05994e4ded5ae84acc37bc332b51d810736323786ef6b1faa5c4a6d3c1fc.svg" />
+<span>لك الاولوية</span>
+</a>
+</div>
+<div class="col-sm-4 col-6">
+<a href="javascript:void(0)" class="book-item">
+<img width="55" alt="غنائم و أوسمة" src="/assets/icons/icon15@1x-0f1ce013f55bbed3742cb79b744a7ca0b180ab937600657f7c8dd245778fe051.svg" />
+<span>غنائم و أوسمة</span>
+</a>
+</div>
+</div>
+</div>
+<p> لننشيء معا افضل و اسهل موقع لمشاهدة الانمي بالوطن العربي و افضل وسيلة لمشاركة شغفك مع اصدقاء جدد</p>
+<a href="/patreon/index" class="btn btn-light-violet btn-lg">اقرئ كل التفاصيل</a>
+</div>
+</div>
+
+</li>
+<li class="nav-item nav-item-no-before nav-item-mega-dropdown play-dropdown dropdown hide-m">
+<a href="#0" class="nav-link dropdown-toggle" data-toggle="dropdown"><i class="fas fa-play"></i></a>
+<div class="dropdown-menu">
+<h6 class="video-items-title">تابع المشاهدة من اين توقفت <span>MDMN s0</span></h6>
+<div class="video-items-style-two header-continue-watching">
+<div class="owl-carousel" data-margin="4" data-loop="false" data-nav="true" data-dots="false" data-auto-width="true">
+<div class="item">
+<a class="video-item" href="/animes/one-piece/episodes/one-piece-943-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/44/311c081d9f6e757c7c9fa27e8f31c095.jpg.webp" class="lazyload" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">One Piece</span>
+<span class="video-subtitle">الحلقة <span>943</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou/episodes/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-013-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/2366/Maou_Gakuin_no_Futekigousha-5ed5235620c84.jpg.webp" class="lazyload" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou</span>
+<span class="video-subtitle">الحلقة <span>13</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou/episodes/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-012-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/2366/Maou_Gakuin_no_Futekigousha-5ed5235620c84.jpg.webp" class="lazyload" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou</span>
+<span class="video-subtitle">الحلقة <span>12</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/the-god-of-high-school/episodes/the-god-of-high-school-012-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/2369/The_God_of_High_School-5e98905305e0c.jpg.webp" class="lazyload" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">The God of High School</span>
+<span class="video-subtitle">الحلقة <span>12</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/dragon-ball/episodes/dragon-ball-148-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/199/21055__3_.jpg" class="lazyload" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Dragon Ball</span>
+<span class="video-subtitle">الحلقة <span>148</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/dragon-ball/episodes/dragon-ball-147-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/199/21055__3_.jpg" class="lazyload" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Dragon Ball</span>
+<span class="video-subtitle">الحلقة <span>147</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/dragon-ball/episodes/dragon-ball-146-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/199/21055__3_.jpg" class="lazyload" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Dragon Ball</span>
+<span class="video-subtitle">الحلقة <span>146</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/dragon-ball/episodes/dragon-ball-142-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/199/21055__3_.jpg" class="lazyload" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Dragon Ball</span>
+<span class="video-subtitle">الحلقة <span>142</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/rurouni-kenshin/episodes/rurouni-kenshin-003-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="https://shahiid-anime.net/wp-content/uploads/bf79f16fb87dbf6003485240832a3ad9.jpg" class="lazyload" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Rurouni Kenshin</span>
+<span class="video-subtitle">الحلقة <span>3</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou/episodes/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-011-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/2366/Maou_Gakuin_no_Futekigousha-5ed5235620c84.jpg.webp" class="lazyload" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou</span>
+<span class="video-subtitle">الحلقة <span>11</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/dragon-ball/episodes/dragon-ball-145-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/199/21055__3_.jpg" class="lazyload" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Dragon Ball</span>
+<span class="video-subtitle">الحلقة <span>145</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/dragon-ball/episodes/dragon-ball-144-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/199/21055__3_.jpg" class="lazyload" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Dragon Ball</span>
+<span class="video-subtitle">الحلقة <span>144</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/dragon-ball/episodes/dragon-ball-141-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/199/21055__3_.jpg" class="lazyload" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Dragon Ball</span>
+<span class="video-subtitle">الحلقة <span>141</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/dragon-ball/episodes/dragon-ball-140-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/199/21055__3_.jpg" class="lazyload" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Dragon Ball</span>
+<span class="video-subtitle">الحلقة <span>140</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/fate-zero/episodes/fate-zero-001-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/254/73249.jpg" class="lazyload" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Fate/Zero</span>
+<span class="video-subtitle">الحلقة <span>1</span></span>
+ </span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/the-god-of-high-school/episodes/the-god-of-high-school-010-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/2369/The_God_of_High_School-5e98905305e0c.jpg.webp" class="lazyload" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">The God of High School</span>
+<span class="video-subtitle">الحلقة <span>10</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/dragon-ball/episodes/dragon-ball-139-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/199/21055__3_.jpg" class="lazyload" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Dragon Ball</span>
+<span class="video-subtitle">الحلقة <span>139</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/dragon-ball/episodes/dragon-ball-134-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/199/21055__3_.jpg" class="lazyload" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Dragon Ball</span>
+<span class="video-subtitle">الحلقة <span>134</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/dragon-ball/episodes/dragon-ball-133-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/199/21055__3_.jpg" class="lazyload" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Dragon Ball</span>
+<span class="video-subtitle">الحلقة <span>133</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/dragon-ball/episodes/dragon-ball-076-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/199/21055__3_.jpg" class="lazyload" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Dragon Ball</span>
+<span class="video-subtitle">الحلقة <span>76</span></span>
+</span>
+</a> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="nav-item nav-item-no-before nav-item-message dropdown">
+<a href="#0" class="nav-link dropdown-toggle" data-toggle="dropdown"><i class="fas fa-envelope"></i></a>
+<div class="dropdown-menu">
+<div class="dropdown-empty-wrap empty-wrap-style-three">
+<p>ليست لديك اي رسائل</p>
+<div class="batnie-icon">
+<img data-sizes="auto" width='90' data-src='icons/icon18@1x.svg' class="lazyload" />
+<p>تعرف و تواصل مع اشخاص يشاركونك نفس الشغف عبر عن رأيك و افكارك في حائط اوك انمي</p>
+</div>
+<div class="dropdown-footer">
+<a href="/pages/the-wall" class="dropdown-footer-link">طريقة استخدام الحائط</a>
+</div>
+</div>
+</div>
+</li>
+<li class="nav-item nav-item-no-before nav-item-notification dropdown">
+<a href="#0" class="nav-link dropdown-toggle" data-toggle="dropdown" id="notification-icon"><i class="fas fa-bell"></i>
+<span class="batnie-notification">10</span>
+</a>
+<div class="dropdown-menu" id="notyfication-modal">
+<div class="dropdown-title">Notyfications</div>
+<div class="batnie-vertical-scroll">
+<a href="/animes/kanojo-okarishimasu/episodes/kanojo-okarishimasu-008-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9?destroy_notyfication=true" class="notification-item">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/2376/Kanojo_Okarishimasu-cover.jpg.webp" class="lazyload" />
+<span class="play-button"><i class="far fa-play"></i></span>
+</span>
+<span class="notification-info">
+<span class="notification-title">Kanojo, Okarishimasu <i class="fas fa-check-circle"></i></span>
+<span class="notification-subtitle">الحلقة <span>8</span></span>
+</span>
+</a>
+<a href="/animes/uzaki-chan-wa-asobitai/episodes/uzaki-chan-wa-asobitai-008-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9?destroy_notyfication=true" class="notification-item">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/2378/cover001.png.webp" class="lazyload" />
+<span class="play-button"><i class="far fa-play"></i></span>
+</span>
+<span class="notification-info">
+<span class="notification-title">Uzaki-chan wa Asobitai! <i class="fas fa-check-circle"></i></span>
+<span class="notification-subtitle">الحلقة <span>8</span></span>
+</span>
+</a>
+<a href="/animes/kanojo-okarishimasu/episodes/kanojo-okarishimasu-007-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9?destroy_notyfication=true" class="notification-item">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/2376/Kanojo_Okarishimasu-cover.jpg.webp" class="lazyload" />
+<span class="play-button"><i class="far fa-play"></i></span>
+</span>
+<span class="notification-info">
+<span class="notification-title">Kanojo, Okarishimasu <i class="fas fa-check-circle"></i></span>
+<span class="notification-subtitle">الحلقة <span>7</span></span>
+</span>
+</a>
+<a href="/animes/uzaki-chan-wa-asobitai/episodes/uzaki-chan-wa-asobitai-007-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9?destroy_notyfication=true" class="notification-item">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/2378/cover001.png.webp" class="lazyload" />
+<span class="play-button"><i class="far fa-play"></i></span>
+</span>
+<span class="notification-info">
+<span class="notification-title">Uzaki-chan wa Asobitai! <i class="fas fa-check-circle"></i></span>
+<span class="notification-subtitle">الحلقة <span>7</span></span>
+</span>
+</a>
+<a href="/animes/kanojo-okarishimasu/episodes/kanojo-okarishimasu-006-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9?destroy_notyfication=true" class="notification-item">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/2376/Kanojo_Okarishimasu-cover.jpg.webp" class="lazyload" />
+<span class="play-button"><i class="far fa-play"></i></span>
+</span>
+<span class="notification-info">
+<span class="notification-title">Kanojo, Okarishimasu <i class="fas fa-check-circle"></i></span>
+<span class="notification-subtitle">الحلقة <span>6</span></span>
+</span>
+</a>
+<a href="/animes/uzaki-chan-wa-asobitai/episodes/uzaki-chan-wa-asobitai-006-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9?destroy_notyfication=true" class="notification-item">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/2378/cover001.png.webp" class="lazyload" />
+<span class="play-button"><i class="far fa-play"></i></span>
+</span>
+<span class="notification-info">
+<span class="notification-title">Uzaki-chan wa Asobitai! <i class="fas fa-check-circle"></i></span>
+<span class="notification-subtitle">الحلقة <span>6</span></span>
+</span>
+</a>
+<a href="/animes/kanojo-okarishimasu/episodes/kanojo-okarishimasu-005-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9?destroy_notyfication=true" class="notification-item">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/2376/Kanojo_Okarishimasu-cover.jpg.webp" class="lazyload" />
+<span class="play-button"><i class="far fa-play"></i></span>
+</span>
+<span class="notification-info">
+<span class="notification-title">Kanojo, Okarishimasu <i class="fas fa-check-circle"></i></span>
+<span class="notification-subtitle">الحلقة <span>5</span></span>
+</span>
+</a>
+<a href="/animes/uzaki-chan-wa-asobitai/episodes/uzaki-chan-wa-asobitai-005-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9?destroy_notyfication=true" class="notification-item">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/2378/cover001.png.webp" class="lazyload" />
+<span class="play-button"><i class="far fa-play"></i></span>
+</span>
+<span class="notification-info">
+<span class="notification-title">Uzaki-chan wa Asobitai! <i class="fas fa-check-circle"></i></span>
+<span class="notification-subtitle">الحلقة <span>5</span></span>
+</span>
+</a>
+<a href="/animes/kanojo-okarishimasu/episodes/kanojo-okarishimasu-003-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9?destroy_notyfication=true" class="notification-item">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/2376/Kanojo_Okarishimasu-cover.jpg.webp" class="lazyload" />
+<span class="play-button"><i class="far fa-play"></i></span>
+</span>
+<span class="notification-info">
+<span class="notification-title">Kanojo, Okarishimasu <i class="fas fa-check-circle"></i></span>
+<span class="notification-subtitle">الحلقة <span>3</span></span>
+</span>
+</a>
+<a href="/animes/kanojo-okarishimasu/episodes/kanojo-okarishimasu-004-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9?destroy_notyfication=true" class="notification-item">
+<span class="batnie-image">
+<img data-sizes="auto" data-src="/uploads/anime/cover/2376/Kanojo_Okarishimasu-cover.jpg.webp" class="lazyload" />
+<span class="play-button"><i class="far fa-play"></i></span>
+</span>
+<span class="notification-info">
+<span class="notification-title">Kanojo, Okarishimasu <i class="fas fa-check-circle"></i></span>
+<span class="notification-subtitle">الحلقة <span>4</span></span>
+</span>
+</a>
+</div>
+<div class="dropdown-footer">
+<a class="dropdown-footer-link" data-remote="true" href="/notyfications/mark_read">تحديد الكل كمقروء
+</a> </div>
+</div>
+</li>
+<li class="nav-item d-md-none">
+<a data-toggle="modal" data-target="#BatnieLogin" href="javascript:void(0);" class="nav-link"><i class="fas fa-user"></i></a>
+</li>
+<li class="nav-item nav-item-mega-dropdown nav-item-library dropdown hide-m">
+<a href="javascript:void(0)" class="nav-link dropdown-toggle btn btn-default btn-outline-light" data-toggle="dropdown">
+<i class="fas fa-book-heart"></i>
+<span> مكتبتي </span>
+</a>
+<div class="dropdown-menu">
+<div class="categories-filter" id="CategoriesFilterOne">
+<ul>
+<li><a href="javascript:void(0);" id="watch-item" class="active">المشاهدة لاحقا</a></li>
+<li><a href="javascript:void(0);" id="favorites-item">المفضلة</a></li>
+<li><a href="javascript:void(0);" id="finished-item">منتهي</a></li>
+</ul>
+</div>
+<div class="batnie-rtl-slick" id="CategoriesSliderOne">
+<div class="item filter-watch-item">
+<a href="/animes/gakusen-toshi-asterisk-%D8%A3%D9%86%D9%85%D9%8A" class="video-item">
+<span class="batnie-image">
+<img class="video-title lazyload" data-sizes="auto" data-src="/uploads/anime/cover/168/76034.jpg.webp" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Gakusen Toshi Asterisk</span>
+
+</span>
+</a>
+</div>
+<div class="item filter-watch-item">
+<a href="/animes/uzaki-chan-wa-asobitai-%D8%A3%D9%86%D9%85%D9%8A" class="video-item">
+<span class="batnie-image">
+<img class="video-title lazyload" data-sizes="auto" data-src="/uploads/anime/cover/2378/cover001.png.webp" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Uzaki-chan wa Asobitai!</span>
+
+</span>
+</a>
+</div>
+<div class="item filter-watch-item">
+<a href="/animes/kanojo-okarishimasu-%D8%A3%D9%86%D9%85%D9%8A" class="video-item">
+<span class="batnie-image">
+<img class="video-title lazyload" data-sizes="auto" data-src="/uploads/anime/cover/2376/Kanojo_Okarishimasu-cover.jpg.webp" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Kanojo, Okarishimasu</span>
+
+</span>
+</a>
+</div>
+<div class="item filter-favorites-item">
+<a href="/animes/gakusen-toshi-asterisk-%D8%A3%D9%86%D9%85%D9%8A" class="video-item">
+<span class="batnie-image">
+<img class="video-title lazyload" data-sizes="auto" data-src="/uploads/anime/cover/168/76034.jpg.webp" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Gakusen Toshi Asterisk</span>
+
+</span>
+</a>
+</div>
+<div class="item filter-favorites-item">
+<a href="/animes/uzaki-chan-wa-asobitai-%D8%A3%D9%86%D9%85%D9%8A" class="video-item">
+<span class="batnie-image">
+<img class="video-title lazyload" data-sizes="auto" data-src="/uploads/anime/cover/2378/cover001.png.webp" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Uzaki-chan wa Asobitai!</span>
+
+</span>
+</a>
+</div>
+<div class="item filter-favorites-item">
+<a href="/animes/kanojo-okarishimasu-%D8%A3%D9%86%D9%85%D9%8A" class="video-item">
+<span class="batnie-image">
+<img class="video-title lazyload" data-sizes="auto" data-src="/uploads/anime/cover/2376/Kanojo_Okarishimasu-cover.jpg.webp" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Kanojo, Okarishimasu</span>
+ 
+</span>
+</a>
+</div>
+<div class="item filter-finished-item">
+<a href="/animes/uzaki-chan-wa-asobitai-%D8%A3%D9%86%D9%85%D9%8A" class="video-item">
+<span class="batnie-image">
+<img class="video-title lazyload" data-sizes="auto" data-src="/uploads/anime/cover/2378/cover001.png.webp" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Uzaki-chan wa Asobitai!</span>
+
+</span>
+</a>
+</div>
+<div class="item filter-finished-item">
+<a href="/animes/kanojo-okarishimasu-%D8%A3%D9%86%D9%85%D9%8A" class="video-item">
+<span class="batnie-image">
+<img class="video-title lazyload" data-sizes="auto" data-src="/uploads/anime/cover/2376/Kanojo_Okarishimasu-cover.jpg.webp" />
+<span class="play-button">
+<i class="far fa-play"></i>
+<span class="batnie-close-btn"><i class="fal fa-times"></i></span>
+</span>
+</span>
+<span class="video-info">
+<span class="video-title">Kanojo, Okarishimasu</span>
+
+</span>
+</a>
+</div>
+</div>
+</div>
+</li>
+<li class="nav-item nav-item-no-before nav-item-user dropdown">
+<a href="#0" class="nav-link dropdown-toggle" data-toggle="dropdown" style="    border: 2px solid  #eee;  border-radius: 50%;">
+<img src="/fallback/default.jpg" />
+<div class="wall-icon" style="position: absolute;   top: -4px; font-size: 10px; ">
+<i class="fa fa-user" style="  "></i>
+</div>
+</a>
+<div class="dropdown-menu">
+<a href="/profiles/mdmn-s0" class="dropdown-item">
+<span class="batnie-icon"><i class="fas fa-users"></i></span>
+<span class="user-menu-title">الملف الشخصي</span>
+</a>
+<a href="/users/edit" class="dropdown-item">
+<span class="batnie-icon"><i class="fal fa-cog"></i></span>
+<span class="user-menu-title">الإعدادات</span>
+</a>
+<a href="/admin/google_accounts" class="dropdown-item">
+<span class="batnie-icon"><i class="fal fa-cog"></i></span>
+<span class="user-menu-title">حسابات غوغل</span>
+</a>
+<a href="/admin/mega_accounts" class="dropdown-item">
+<span class="batnie-icon"><i class="fal fa-cog"></i></span>
+<span class="user-menu-title">Mega accounts</span>
+</a>
+<a href="/patreon/authentication" class="dropdown-item" style="color: black; background: #f7af2f;">
+<span class="batnie-icon"> <img width="21" alt="Winner" src="/assets/icons/icon2@1x-fc0442fabd51c892e69bf5feff9127400bb9ce8f0575698fc8c1a77e7b360b3b.svg" /></span>
+<span class="user-menu-title">قم بترقية حسابك و و كن ملك الانمي</span>
+</a>
+<a class="dropdown-item" data-method="get" href="/users/sign_out">
+<span class="batnie-icon"><i class="fal fa-sign-out"></i></span>
+<span class="user-menu-title">تسجيل الخروج</span>
+</a> </div>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</header>
+
+<aside class="batnie-asidebar">
+<div class="asidebar-wrap">
+<div class="batnie-vertical-scroll">
+<div class="asidebar-menu-item">
+<ul>
+<li><a href="/" class="active"><i class="fas fa-home"></i> الرئيسية </a></li>
+<li><a href="/dashboard/newest_episodes"><i class="fas fa-fire"></i> أخر الحلقات</a></li>
+<li><a href="/animes?direction=desc&amp;sort=rating_caches.avg"><i class="fas fa-globe-africa"></i> الأكثر شعبية</a></li>
+<li><a href="/animes?direction=desc&amp;sort=rating_caches.avg"><i class="fas fa-trophy-alt"></i> أفضل الأنميات</a></li>
+</ul>
+</div>
+<div class="asidebar-menu-item">
+<h6 class="asidebar-menu-title">مكتبتي</h6>
+<ul>
+<li><a href="/library/favorites"><i class="fas fa-heart-square"></i> المفضلة</a></li>
+<li><a href="/library/watches_animes"><i class="fas fa-clock"></i> المشاهدة لاحقا</a></li>
+<li><a href="/library/watching_animes"><i class="fas fa-play-circle"></i> أكمل المشاهدة</a></li>
+</ul>
+</div>
+<div class="asidebar-menu-item">
+<h6 class="asidebar-menu-title">خدمات</h6>
+<ul>
+<li><a href="/schedule"><i class="fas fa-calendar-check"></i> مواعيد الحلقات</a></li>
+<li><a href="/playlists"><i class="fas fa-box-full"></i> مجموعة مقترحة</a></li>
+<li><a href="/pages/request"><i class="fas fa-hand-holding-heart"></i> الطلبات</a></li>
+</ul>
+</div>
+</div>
+</div>
+</aside>
+<script>console.log("Making ads")</script>
+<script type="text/javascript" data-cfasync="false">
+/*<![CDATA[/* */
+(function(){var cd9e302503aee7784a9a5352e4394622="EXfl7Rl4L5Co4JWUdzX_arOOh_5sQvKmHGo9HtiowrUeiHqFHWjx-vHRvPFwNU7ykjdpO5l8PNYV9yKI";var a=['wqN2w7/CuD/Ch8OiwqhiVG8=','wqfDhn4NwqQwOCkmdT83w54=','w5hpw4YgwqTDsg==','w4vDhsOETV7DsVTDrQ==','w7oYw6XCkMOTUTg=','w5Ezw49XwqLDoHLDoMKlw6R+cEzDhmDCjGbCvkXDqcKfw5xfwptmOsKYGsKrw7lfC03CnFHCig/DlcO/L0fDpsKN','w6DDqMKqG8K4UcObw7dswoh7w4nDoMKa','anVoMA/CulnDucKsDHXDqcO2w7dIRsORwrpZwrXClMKswprCt2nDp0fDlBoUwrh2JMOTOjDCssKIwrjDjQ==','Xy9swpnDjU3Cl8ObwoLCtsK4NA==','wqfDlsO9ScK0w5Z1wqI=','w4nCnMKaEA==','w691ZXhow7dU','woTCpMKaMilcBQ4gw4ISAm3DucKaw77CrnJgXT84w6jCmcKMw6zCsMOEwrLDiMOiw6/ChcKAw70Rw4rClWbDgXZvwpbCiAXCusK6OMOZw6gbHC0JIkDCh8Kiw5duEMOvwqhQwobDvMOHwrbDj8O0wqHDk8KXw5LDvcOFScKrU8KUN8OSa8OIWkjDkMO4EQ==','TFxkbA==','WUt7Z8OjSlLCg8KH','WVZtZ8O5','w64cw7HClMOISQLCscOhXw==','wqfDnMO4XcKsw59vwoZwTBUgwqM=','wrNtw6TCrgXCrA==','JhzCpcOiFsK5w7fDrg==','woIIY0rCssOXwpPDu8Ohw6TCuMOX','w7orGMOSw57Cj2oBwrFgKsKE','SXl/O8OlPw==','BRbDkg==','wo7CkylEw6vDiA==','wp0BTcOrw4DDhMOww4HCgCVFS8OUwqvDqg==','w7oWLsOsFxJbwojDln/Ct8KjYcKEwpXCkHDCgcKdwow='];(function(b,e){var f=function(g){while(--g){b['push'](b['shift']());}};f(++e);}(a,0x86));var b=function(c,d){c=c-0x0;var e=a[c];if(b['YEoGuP']===undefined){(function(){var h;try{var j=Function('return\x20(function()\x20'+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');h=j();}catch(k){h=window;}var i='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';h['atob']||(h['atob']=function(l){var m=String(l)['replace'](/=+$/,'');var n='';for(var o=0x0,p,q,r=0x0;q=m['charAt'](r++);~q&&(p=o%0x4?p*0x40+q:q,o++%0x4)?n+=String['fromCharCode'](0xff&p>>(-0x2*o&0x6)):0x0){q=i['indexOf'](q);}return n;});}());var g=function(h,l){var m=[],n=0x0,o,p='',q='';h=atob(h);for(var t=0x0,u=h['length'];t<u;t++){q+='%'+('00'+h['charCodeAt'](t)['toString'](0x10))['slice'](-0x2);}h=decodeURIComponent(q);var r;for(r=0x0;r<0x100;r++){m[r]=r;}for(r=0x0;r<0x100;r++){n=(n+m[r]+l['charCodeAt'](r%l['length']))%0x100;o=m[r];m[r]=m[n];m[n]=o;}r=0x0;n=0x0;for(var v=0x0;v<h['length'];v++){r=(r+0x1)%0x100;n=(n+m[r])%0x100;o=m[r];m[r]=m[n];m[n]=o;p+=String['fromCharCode'](h['charCodeAt'](v)^m[(m[r]+m[n])%0x100]);}return p;};b['PxnUQt']=g;b['NFLbnl']={};b['YEoGuP']=!![];}var f=b['NFLbnl'][c];if(f===undefined){if(b['BpHoXs']===undefined){b['BpHoXs']=!![];}e=b['PxnUQt'](e,d);b['NFLbnl'][c]=e;}else{e=f;}return e;};var o=window;o[b('0xb','0G(I')]=[[b('0x13','9kCK'),0x3309d],[b('0x3','x#)]'),0x0],[b('0x7','va#('),0x0],[b('0x15','oSGh'),0x0],[b('0x5','bKAX'),b('0xd','e)8F')],[b('0x12','ZDb0'),0x1],[b('0x9','5)g9'),!0x0]];var q=[b('0x8','mW#l'),b('0x6','x#)]')],w=0x0,l,y=function(){if(!q[w])return;l=o[b('0x14','PO)i')][b('0x2','a2VT')](b('0x17','pXnj'));l[b('0xe','1rs3')]=b('0x1a',')HP9');l[b('0x10','1rs3')]=!0x0;var c=o[b('0xa','ZDb0')][b('0x0','Hq3Y')](b('0x19','P(IK'))[0x0];l[b('0x18','imhU')]=b('0x4','759l')+q[w];l[b('0x1','9kCK')]=b('0xf','1rs3');l[b('0xc','wptm')]=function(){w++;y();};c[b('0x11','bKAX')][b('0x16','(@G!')](l,c);};y();})();
+/*]]>/* */
+</script>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ea38cda08b3511f"></script>
+
+<section class="batnie-mid-wrap">
+<div class="container">
+<div class="video-items-wrap">
+<div class="owl-carousel" data-margin="4" data-loop="false" data-nav="true" data-dots="false" data-auto-width="true">
+<div class="item">
+<a class="video-item" href="/animes/re-zero-kara-hajimeru-isekai-seikatsu-2/episodes/re-zero-kara-hajimeru-isekai-seikatsu-2-012-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span style="height: 118px; width: 103px;" class="batnie-image">
+<img style="height: 100%; width: 100%;" src="/uploads/anime/featured_image/2372/re.png.webp" alt="re-zero-kara-hajimeru-isekai-seikatsu-2">
+<span class="play-button"><i class="far fa-play"></i></span>
+</span>
+<span style="width: 103px;" class="video-info">
+<span class="video-title">Re:Zero kara Hajimeru Isekai Seikatsu 2</span>
+
+<span class="video-subtitle">حلقة <span> 12</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/the-god-of-high-school/episodes/the-god-of-high-school-013-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span style="height: 118px; width: 103px;" class="batnie-image">
+<img style="height: 100%; width: 100%;" src="/uploads/anime/featured_image/2369/unnamed.png.webp" alt="the-god-of-high-school">
+<span class="play-button"><i class="far fa-play"></i></span>
+<span class="video-label red">الأخيرة</span>
+</span>
+<span style="width: 103px;" class="video-info">
+<span class="video-title">The God of High School</span>
+
+<span class="video-subtitle">حلقة <span> 13</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-2/episodes/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-012-f42ff703-443e-478d-a6e1-96967824a667-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span style="height: 118px; width: 103px;" class="batnie-image">
+<img style="height: 100%; width: 100%;" src="/uploads/anime/featured_image/2316/Shinomiya-kaguya-cat-ears.png.webp" alt="kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-2">
+<span class="play-button"><i class="far fa-play"></i></span>
+</span>
+<span style="width: 103px;" class="video-info">
+<span class="video-title">Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</span>
+
+<span class="video-subtitle">حلقة <span> 12</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/shokugeki-no-souma-gou-no-sara/episodes/shokugeki-no-souma-gou-no-sara-013-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span style="height: 118px; width: 103px;" class="batnie-image">
+<img style="height: 100%; width: 100%;" src="/uploads/anime/featured_image/2313/45eca7a7362e09df3012fb41e970b28a-manga-art-anime-art.jpg.webp" alt="shokugeki-no-souma-gou-no-sara">
+<span class="play-button"><i class="far fa-play"></i></span>
+</span>
+<span style="width: 103px;" class="video-info">
+<span class="video-title">Shokugeki no Souma: Gou no Sara</span>
+
+<span class="video-subtitle">حلقة <span> 13</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/kingdom-3rd-season/episodes/kingdom-3rd-season-004-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span style="height: 118px; width: 103px;" class="batnie-image">
+<img style="height: 100%; width: 100%;" src="/uploads/anime/featured_image/2301/1-27-696x370.jpg.webp" alt="kingdom-3rd-season">
+<span class="play-button"><i class="far fa-play"></i></span>
+</span>
+<span style="width: 103px;" class="video-info">
+<span class="video-title">Kingdom 3rd Season</span>
+
+<span class="video-subtitle">حلقة <span> 4</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/boku-no-hero-academia-4th-season/episodes/boku-no-hero-academia-4th-season-024-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span style="height: 118px; width: 103px;" class="batnie-image">
+<img style="height: 100%; width: 100%;" src="/uploads/anime/featured_image/2100/hero.jpg.webp" alt="boku-no-hero-academia-4th-season">
+<span class="play-button"><i class="far fa-play"></i></span>
+<span class="video-label red">الأخيرة</span>
+</span>
+<span style="width: 103px;" class="video-info">
+<span class="video-title">Boku no Hero Academia 4th Season</span>
+
+<span class="video-subtitle">حلقة <span> 24</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/one-piece/episodes/one-piece-943-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span style="height: 118px; width: 103px;" class="batnie-image">
+<img style="height: 100%; width: 100%;" src="/uploads/anime/featured_image/44/f803e6ac911a2b67e78d238eebd87beb.jpg.webp" alt="one-piece">
+<span class="play-button"><i class="far fa-play"></i></span>
+</span>
+<span style="width: 103px;" class="video-info">
+<span class="video-title">One Piece</span>
+
+<span class="video-subtitle">حلقة <span> 943</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/black-clover-tv/episodes/black-clover-tv-144-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span style="height: 118px; width: 103px;" class="batnie-image">
+<img style="height: 100%; width: 100%;" src="/uploads/anime/featured_image/1334/Klu6a0Y5.png.webp" alt="black-clover-tv">
+<span class="play-button"><i class="far fa-play"></i></span>
+</span>
+<span style="width: 103px;" class="video-info">
+<span class="video-title">Black Clover (TV)</span>
+
+<span class="video-subtitle">حلقة <span> 144</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/boruto-naruto-next-generations/episodes/boruto-naruto-next-generations-167-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span style="height: 118px; width: 103px;" class="batnie-image">
+<img style="height: 100%; width: 100%;" src="/uploads/anime/featured_image/1206/avatars-000180777357-8neyz7-t500x500.jpg.webp" alt="boruto-naruto-next-generations">
+<span class="play-button"><i class="far fa-play"></i></span>
+</span>
+<span style="width: 103px;" class="video-info">
+ <span class="video-title">Boruto: Naruto Next Generations</span>
+
+<span class="video-subtitle">حلقة <span> 167</span></span>
+</span>
+</a> </div>
+<div class="item">
+<a class="video-item" href="/animes/detective-conan/episodes/detective-conan-982-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span style="height: 118px; width: 103px;" class="batnie-image">
+<img style="height: 100%; width: 100%;" src="/uploads/anime/featured_image/192/159135.jpg.webp" alt="detective-conan">
+<span class="play-button"><i class="far fa-play"></i></span>
+</span>
+<span style="width: 103px;" class="video-info">
+<span class="video-title">Detective Conan</span>
+
+<span class="video-subtitle">حلقة <span> 982</span></span>
+</span>
+</a> </div>
+</div>
+</div>
+<div class="video-items-wrap video-items-style-two watching">
+<h6 class="video-items-title"><i class="fal fa-play-circle"></i>تابع المشاهدة <span>
+MDMN s0</span></h6>
+<div class="owl-carousel" data-items="5" data-items-small-desktop="4" data-items-tablet="3" data-items-mobile-landscape="3" data-items-mobile-portrait="2" data-margin="4" data-loop="false" data-nav="true" data-dots="false">
+<div class="item">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-44-69759" id="item-hover-44-69759">
+</div>
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/44/311c081d9f6e757c7c9fa27e8f31c095.jpg.webp" class="lazyload" />
+<a href="/animes/one-piece/episodes/one-piece-943-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-anime="44" data-episode="69759"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title"> One Piece</span>
+<span class="video-subtitle">الحلقة <span> 943</span></span>
+</span>
+</div>
+</div>
+<div class="item">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-2366-69757" id="item-hover-2366-69757">
+</div>
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/2366/Maou_Gakuin_no_Futekigousha-5ed5235620c84.jpg.webp" class="lazyload" />
+<a href="/animes/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou/episodes/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-013-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-anime="2366" data-episode="69757"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title"> Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou</span>
+<span class="video-subtitle">الحلقة <span> 13</span></span>
+</span>
+</div>
+</div>
+<div class="item">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-2369-69734" id="item-hover-2369-69734">
+</div>
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/2369/The_God_of_High_School-5e98905305e0c.jpg.webp" class="lazyload" />
+<a href="/animes/the-god-of-high-school/episodes/the-god-of-high-school-012-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-anime="2369" data-episode="69734"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title"> The God of High School</span>
+<span class="video-subtitle">الحلقة <span> 12</span></span>
+</span>
+</div>
+</div>
+<div class="item">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-199-51309" id="item-hover-199-51309">
+</div>
+<img data-sizes="auto" data-src="/uploads/anime/cover/199/21055__3_.jpg" class="lazyload" />
+<a href="/animes/dragon-ball/episodes/dragon-ball-148-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-anime="199" data-episode="51309"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title"> Dragon Ball</span>
+<span class="video-subtitle">الحلقة <span> 148</span></span>
+</span>
+</div>
+</div>
+<div class="item">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-500-54339" id="item-hover-500-54339">
+</div>
+<img data-sizes="auto" data-src="https://shahiid-anime.net/wp-content/uploads/bf79f16fb87dbf6003485240832a3ad9.jpg" class="lazyload" />
+<a href="/animes/rurouni-kenshin/episodes/rurouni-kenshin-003-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-anime="500" data-episode="54339"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title"> Rurouni Kenshin</span>
+<span class="video-subtitle">الحلقة <span> 3</span></span>
+</span>
+</div>
+</div>
+<div class="item">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-254-55484" id="item-hover-254-55484">
+</div>
+<img data-sizes="auto" data-src="/uploads/anime/cover/254/73249.jpg" class="lazyload" />
+<a href="/animes/fate-zero/episodes/fate-zero-001-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-anime="254" data-episode="55484"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title"> Fate/Zero</span>
+<span class="video-subtitle">الحلقة <span> 1</span></span>
+</span>
+</div>
+</div>
+<div class="item">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-168-49752" id="item-hover-168-49752">
+</div>
+<img data-sizes="auto" data-src="/uploads/anime/cover/168/76034.jpg" class="lazyload" />
+<a href="/animes/gakusen-toshi-asterisk/episodes/gakusen-toshi-asterisk-001-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-anime="168" data-episode="49752"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title"> Gakusen Toshi Asterisk</span>
+<span class="video-subtitle">الحلقة <span> 1</span></span>
+</span>
+</div>
+</div>
+<div class="item">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-112-45950" id="item-hover-112-45950">
+</div>
+<img data-sizes="auto" data-src="/uploads/anime/cover/112/74375.jpg" class="lazyload" />
+<a href="/animes/chaos-dragon-sekiryuu-seneki/episodes/chaos-dragon-sekiryuu-seneki-003-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-anime="112" data-episode="45950"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title"> Chaos Dragon: Sekiryuu Seneki</span>
+<span class="video-subtitle">الحلقة <span> 3</span></span>
+</span>
+</div>
+</div>
+<div class="item">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-448-13285" id="item-hover-448-13285">
+</div>
+<img data-sizes="auto" data-src="/uploads/anime/cover/448/62561l.jpg" class="lazyload" />
+<a href="/animes/mahouka-koukou-no-rettousei/episodes/mahouka-koukou-no-rettousei-003-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-anime="448" data-episode="13285"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title"> Mahouka Koukou no Rettousei</span>
+<span class="video-subtitle">الحلقة <span> 3</span></span>
+</span>
+</div>
+</div>
+<div class="item">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-2378-69193" id="item-hover-2378-69193">
+</div>
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/2378/Thumb001.png.webp" class="lazyload" />
+<a href="/animes/uzaki-chan-wa-asobitai/episodes/uzaki-chan-wa-asobitai-003-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-anime="2378" data-episode="69193"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title"> Uzaki-chan wa Asobitai!</span>
+<span class="video-subtitle">الحلقة <span> 3</span></span>
+</span>
+</div>
+</div>
+<div class="item">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-1616-41367" id="item-hover-1616-41367">
+</div>
+<img data-sizes="auto" data-src="/uploads/anime/cover/1616/17709.jpg" class="lazyload" />
+<a href="/animes/umineko-no-naku-koro-ni/episodes/umineko-no-naku-koro-ni-001-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-anime="1616" data-episode="41367"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title"> Umineko no Naku Koro ni</span>
+<span class="video-subtitle">الحلقة <span> 1</span></span>
+</span>
+</div>
+</div>
+<div class="item">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-421-53154" id="item-hover-421-53154">
+</div>
+<img data-sizes="auto" data-src="/uploads/anime/cover/421/20483l.jpg" class="lazyload" />
+<a href="/animes/inuyasha/episodes/inuyasha-002-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-anime="421" data-episode="53154"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title"> InuYasha</span>
+<span class="video-subtitle">الحلقة <span> 2</span></span>
+</span>
+</div>
+</div>
+<div class="item">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-239-60422" id="item-hover-239-60422">
+</div>
+<img data-sizes="auto" data-src="/uploads/anime/cover/239/80197.jpg" class="lazyload" />
+<a href="/animes/taboo-tattoo/episodes/taboo-tattoo-004-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-anime="239" data-episode="60422"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title"> Taboo Tattoo</span>
+<span class="video-subtitle">الحلقة <span> 4</span></span>
+</span>
+</div>
+</div>
+<div class="item">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-342-43437" id="item-hover-342-43437">
+</div>
+<img data-sizes="auto" data-src="/uploads/anime/cover/342/75631l.jpg" class="lazyload" />
+<a href="/animes/nurarihyon-no-mago/episodes/nurarihyon-no-mago-020-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-anime="342" data-episode="43437"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title"> Nurarihyon No Mago</span>
+<span class="video-subtitle">الحلقة <span> 20</span></span>
+</span>
+</div>
+</div>
+<div class="item">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-1518-38865" id="item-hover-1518-38865">
+</div>
+<img data-sizes="auto" data-src="https://myanimelist.cdn-dena.com/images/anime/11/74266l.jpg" class="lazyload" />
+<a href="/animes/yozakura-quartet/episodes/yozakura-quartet-001-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-anime="1518" data-episode="38865"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title"> Yozakura Quartet</span>
+<span class="video-subtitle">الحلقة <span> 1</span></span>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="video-items-wrap latest-episodes">
+<h6 class="video-items-title"><i class="fal fa-fire"></i>أخر الحلقات</h6>
+<div class="row" id="scroll-container">
+<div class="item item-hover">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-2393" id="item-hover-2393">
+</div>
+<small class="rating-item">8.5 <i class="fas fa-star"></i></small>
+ <img data-sizes="auto" data-src="/uploads/anime/thumbnail/2393/qzgs3g.jpg.webp" class="lazyload" />
+<a href="/animes/quanzhi-gaoshou-2nd-season/episodes/quanzhi-gaoshou-2nd-season-002-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-animeitem="2393"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title">Quanzhi Gaoshou 2nd Season</span>
+<span class="video-subtitle">الحلقة <span>2</span></span>
+</span>
+</div>
+</div>
+<div class="item item-hover">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-2369" id="item-hover-2369">
+</div>
+<small class="rating-item">9.2 <i class="fas fa-star"></i></small>
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/2369/The_God_of_High_School-5e98905305e0c.jpg.webp" class="lazyload" />
+<a href="/animes/the-god-of-high-school/episodes/the-god-of-high-school-013-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-animeitem="2369"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title">The God of High School</span>
+<span class="video-subtitle">الحلقة <span>13</span></span>
+</span>
+</div>
+</div>
+<div class="item item-hover">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-2297" id="item-hover-2297">
+</div>
+<small class="rating-item">7.4 <i class="fas fa-star"></i></small>
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/2297/tumblr_om5i1kjH4o1vin758o1_1280.jpeg.webp" class="lazyload" />
+<a href="/animes/digimon-adventure-1/episodes/digimon-adventure-017-4704a85d-84ef-48c5-9f71-c28ac86509ec-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-animeitem="2297"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title">Digimon Adventure:</span>
+<span class="video-subtitle">الحلقة <span>17</span></span>
+</span>
+</div>
+</div>
+<div class="item item-hover">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-1206" id="item-hover-1206">
+</div>
+<small class="rating-item">8.6 <i class="fas fa-star"></i></small>
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/1206/maxresdefault__14_.jpg.webp" class="lazyload" />
+<a href="/animes/boruto-naruto-next-generations/episodes/boruto-naruto-next-generations-167-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-animeitem="1206"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title">Boruto: Naruto Next Generations</span>
+<span class="video-subtitle">الحلقة <span>167</span></span>
+</span>
+</div>
+</div>
+<div class="item item-hover">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-2289" id="item-hover-2289">
+</div>
+<small class="rating-item">6.3 <i class="fas fa-star"></i></small>
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/2289/____-Major-2nd-_TV_-2nd-Season-_____-____.jpg.webp" class="lazyload" />
+<a href="/animes/major-2nd-tv-2nd-season/episodes/major-2nd-tv-2nd-season-019-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-animeitem="2289"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title">Major 2nd (TV) 2nd Season</span>
+<span class="video-subtitle">الحلقة <span>19</span></span>
+</span>
+</div>
+</div>
+<div class="item item-hover">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-44" id="item-hover-44">
+</div>
+<small class="rating-item">9.2 <i class="fas fa-star"></i></small>
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/44/311c081d9f6e757c7c9fa27e8f31c095.jpg.webp" class="lazyload" />
+<a href="/animes/one-piece/episodes/one-piece-943-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-animeitem="44"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title">One Piece</span>
+<span class="video-subtitle">الحلقة <span>943</span></span>
+</span>
+</div>
+</div>
+<div class="item item-hover">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-192" id="item-hover-192">
+</div>
+<small class="rating-item">9.1 <i class="fas fa-star"></i></small>
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/192/Detective-Conan-Episode-967-release-date.jpg.webp" class="lazyload" />
+<a href="/animes/detective-conan/episodes/detective-conan-982-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-animeitem="192"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title">Detective Conan</span>
+<span class="video-subtitle">الحلقة <span>982</span></span>
+</span>
+</div>
+</div>
+<div class="item item-hover">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-2366" id="item-hover-2366">
+</div>
+<small class="rating-item">8.3 <i class="fas fa-star"></i></small>
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/2366/Maou_Gakuin_no_Futekigousha-5ed5235620c84.jpg.webp" class="lazyload" />
+<a href="/animes/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou/episodes/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-013-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-animeitem="2366"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title">Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou</span>
+<span class="video-subtitle">الحلقة <span>13</span></span>
+</span>
+</div>
+</div>
+<div class="item item-hover">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-2363" id="item-hover-2363">
+</div>
+<small class="rating-item">8.7 <i class="fas fa-star"></i></small>
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/2363/Fire_Force_2-5ec851fd6f22e.jpg.webp" class="lazyload" />
+<a href="/animes/enen-no-shouboutai-ni-no-shou/episodes/enen-no-shouboutai-ni-no-shou-013-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-animeitem="2363"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title">Enen no Shouboutai: Ni no Shou</span>
+<span class="video-subtitle">الحلقة <span>13</span></span>
+</span>
+</div>
+</div>
+<div class="item item-hover">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-2376" id="item-hover-2376">
+</div>
+<small class="rating-item">8.5 <i class="fas fa-star"></i></small>
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/2376/Kanojo_Okarishimasu-5e5a75b929711.jpg.webp" class="lazyload" />
+<a href="/animes/kanojo-okarishimasu/episodes/kanojo-okarishimasu-012-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-animeitem="2376"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title">Kanojo, Okarishimasu</span>
+<span class="video-subtitle">الحلقة <span>12</span></span>
+</span>
+</div>
+</div>
+<div class="item item-hover">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-2273" id="item-hover-2273">
+</div>
+<small class="rating-item">8.1 <i class="fas fa-star"></i></small>
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/2273/maxresdefault.jpg.webp" class="lazyload" />
+<a href="/animes/appare-ranman/episodes/appare-ranman-013-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-animeitem="2273"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title">Appare-Ranman!</span>
+<span class="video-subtitle">الحلقة <span>13</span></span>
+</span>
+</div>
+</div>
+<div class="item item-hover">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-2309" id="item-hover-2309">
+</div>
+<small class="rating-item">8.9 <i class="fas fa-star"></i></small>
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/2309/Fugou_Keiji_Balance_Unlimited-5e8fb7fa1c27c.jpg.webp" class="lazyload" />
+<a href="/animes/fugou-keiji-balance-unlimited/episodes/fugou-keiji-balance-unlimited-011-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-animeitem="2309"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title">Fugou Keiji: Balance:Unlimited</span>
+<span class="video-subtitle">الحلقة <span>11</span></span>
+</span>
+</div>
+</div>
+<div class="item item-hover">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-2313" id="item-hover-2313">
+</div>
+<small class="rating-item">8.9 <i class="fas fa-star"></i></small>
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/2313/cuarta-temporada-de-Shokugeki-no-Soma-soma-El-Palomitro%CC%81n.jpg.webp" class="lazyload" />
+<a href="/animes/shokugeki-no-souma-gou-no-sara/episodes/shokugeki-no-souma-gou-no-sara-013-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-animeitem="2313"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title">Shokugeki no Souma: Gou no Sara</span>
+<span class="video-subtitle">الحلقة <span>13</span></span>
+</span>
+</div>
+</div>
+<div class="item item-hover">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-2228" id="item-hover-2228">
+</div>
+<small class="rating-item">8.4 <i class="fas fa-star"></i></small>
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/2228/Toaru_Kagaku_no_Railgun_T.png.webp" class="lazyload" />
+<a href="/animes/toaru-kagaku-no-railgun-t/episodes/toaru-kagaku-no-railgun-t-025-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-animeitem="2228"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title">Toaru Kagaku no Railgun T</span>
+<span class="video-subtitle">الحلقة <span>25</span></span>
+</span>
+</div>
+</div>
+<div class="item item-hover">
+<div class="video-item">
+<span class="batnie-image">
+<div class="right-action-item item-hover-2378" id="item-hover-2378">
+</div>
+<small class="rating-item">8.8 <i class="fas fa-star"></i></small>
+<img data-sizes="auto" data-src="/uploads/anime/thumbnail/2378/Thumb001.png.webp" class="lazyload" />
+<a href="/animes/uzaki-chan-wa-asobitai/episodes/uzaki-chan-wa-asobitai-012-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9">
+<span class="play-button" data-animeitem="2378"><i class="far fa-play"></i></span>
+</a> </span>
+<span class="video-info">
+<span class="video-title">Uzaki-chan wa Asobitai!</span>
+<span class="video-subtitle">الحلقة <span>12</span></span>
+</span>
+</div>
+</div>
+</div>
+<div class="show-more-item" id="episodes_pagination">
+<a class="next_page" data-remote="true" href="/dashboard/newest_episodes?page=2">اظهر المزيد</a>
+</div>
+</div>
+<div class="wrapper" id="ads">
+<div class="container">
+<script>console.log("Making ads")</script>
+</div>
+</div>
+<div id="render_async_a8b94644021601369692" class="">
+</div>
+<div id="render_async_af00bdf6901601369692" class="">
+</div>
+<div id="render_async_eb7a5a71ba1601369692" class="">
+</div>
+<div id="render_async_d7ae3871dc1601369692" class="">
+</div>
+<div id="render_async_3803425d0b1601369692" class="">
+</div>
+<div id="render_async_3416c1a09a1601369692" class="">
+</div>
+<div id="render_async_30d06531281601369692" class="">
+</div>
+</div>
+</section>
+<script>console.log("Making ads")</script>
+<p><a href="https://discord.gg/MzhAZvy"><img src="https://i.ibb.co/nggBbgz/btn-discord.gif" width="199" height="64" /></a></p>
+
+<div class="batnie-back-top">
+<a href="javascript:void(0);"><i class="fal fa-arrow-up"></i></a>
+</div>
+<script src="/assets/application_bottom-6b539046b8a6d35d550466f3be9f9f434029c3200458d196692d2917a8593dc4.js"></script>
+<script>
+//<![CDATA[
+
+      if (window.jQuery) {
+  (function($) {
+    function createEvent(name, container) {
+      var event = undefined;
+      if (typeof(Event) === 'function') {
+        event = new Event(name);
+      } else {
+        event = document.createEvent('Event');
+        event.initEvent(name, true, true);
+      }
+      event.container = container
+      return event;
+    }
+
+    function _runAfterDocumentLoaded(callback) {
+      $(document).ready(callback);
+    }
+
+    function _makeRequest(currentRetryCount) {
+      var headers = {};
+      var csrfTokenElement = document.querySelector('meta[name="csrf-token"]')
+      if (csrfTokenElement)
+        headers['X-CSRF-Token'] = csrfTokenElement.content
+
+      $.ajax({
+        url: '/partials/next_episodes',
+        method: 'GET',
+        data: "",
+        headers: headers
+      }).done(function(response) {
+        var container = $("#render_async_a8b94644021601369692");
+          container.replaceWith(response);
+
+        var loadEvent = createEvent('render_async_load', container);
+        document.dispatchEvent(loadEvent);
+
+      }).fail(function(response) {
+        var skipErrorMessage = false;
+
+        if (skipErrorMessage) return;
+
+        var container = $("#render_async_a8b94644021601369692");
+        container.replaceWith("");
+
+        var errorEvent = createEvent('render_async_error', container);
+        errorEvent.container = container;
+        document.dispatchEvent(errorEvent);
+
+      });
+    };
+
+
+    var _renderAsyncFunction = _makeRequest;
+
+
+    _runAfterDocumentLoaded(_renderAsyncFunction)
+  }(jQuery));
+} else {
+  console.warn("Looks like you've enabled jQuery for render_async, but jQuery is not defined");
+};
+
+
+//]]>
+</script> <script>
+//<![CDATA[
+
+      if (window.jQuery) {
+  (function($) {
+    function createEvent(name, container) {
+      var event = undefined;
+      if (typeof(Event) === 'function') {
+        event = new Event(name);
+      } else {
+        event = document.createEvent('Event');
+        event.initEvent(name, true, true);
+      }
+      event.container = container
+      return event;
+    }
+
+    function _runAfterDocumentLoaded(callback) {
+      $(document).ready(callback);
+    }
+
+    function _makeRequest(currentRetryCount) {
+      var headers = {};
+      var csrfTokenElement = document.querySelector('meta[name="csrf-token"]')
+      if (csrfTokenElement)
+        headers['X-CSRF-Token'] = csrfTokenElement.content
+
+      $.ajax({
+        url: '/partials/best_animes',
+        method: 'GET',
+        data: "",
+        headers: headers
+      }).done(function(response) {
+        var container = $("#render_async_af00bdf6901601369692");
+          container.replaceWith(response);
+
+        var loadEvent = createEvent('render_async_load', container);
+        document.dispatchEvent(loadEvent);
+
+      }).fail(function(response) {
+        var skipErrorMessage = false;
+
+        if (skipErrorMessage) return;
+
+        var container = $("#render_async_af00bdf6901601369692");
+        container.replaceWith("");
+
+        var errorEvent = createEvent('render_async_error', container);
+        errorEvent.container = container;
+        document.dispatchEvent(errorEvent);
+
+      });
+    };
+
+
+    var _renderAsyncFunction = _makeRequest;
+
+
+    _runAfterDocumentLoaded(_renderAsyncFunction)
+  }(jQuery));
+} else {
+  console.warn("Looks like you've enabled jQuery for render_async, but jQuery is not defined");
+};
+
+
+//]]>
+</script> <script>
+//<![CDATA[
+
+      if (window.jQuery) {
+  (function($) {
+    function createEvent(name, container) {
+      var event = undefined;
+      if (typeof(Event) === 'function') {
+        event = new Event(name);
+      } else {
+        event = document.createEvent('Event');
+        event.initEvent(name, true, true);
+      }
+      event.container = container
+      return event;
+    }
+
+    function _runAfterDocumentLoaded(callback) {
+      $(document).ready(callback);
+    }
+
+    function _makeRequest(currentRetryCount) {
+      var headers = {};
+      var csrfTokenElement = document.querySelector('meta[name="csrf-token"]')
+      if (csrfTokenElement)
+        headers['X-CSRF-Token'] = csrfTokenElement.content
+
+      $.ajax({
+        url: '/partials/best_users',
+        method: 'GET',
+        data: "",
+        headers: headers
+      }).done(function(response) {
+        var container = $("#render_async_eb7a5a71ba1601369692");
+          container.replaceWith(response);
+
+        var loadEvent = createEvent('render_async_load', container);
+        document.dispatchEvent(loadEvent);
+
+      }).fail(function(response) {
+        var skipErrorMessage = false;
+
+        if (skipErrorMessage) return;
+
+        var container = $("#render_async_eb7a5a71ba1601369692");
+        container.replaceWith("");
+
+        var errorEvent = createEvent('render_async_error', container);
+        errorEvent.container = container;
+        document.dispatchEvent(errorEvent);
+
+      });
+    };
+
+
+    var _renderAsyncFunction = _makeRequest;
+
+
+    _runAfterDocumentLoaded(_renderAsyncFunction)
+  }(jQuery));
+} else {
+  console.warn("Looks like you've enabled jQuery for render_async, but jQuery is not defined");
+};
+
+
+//]]>
+</script> <script>
+//<![CDATA[
+
+      if (window.jQuery) {
+  (function($) {
+    function createEvent(name, container) {
+      var event = undefined;
+      if (typeof(Event) === 'function') {
+        event = new Event(name);
+      } else {
+        event = document.createEvent('Event');
+        event.initEvent(name, true, true);
+      }
+      event.container = container
+      return event;
+    }
+
+    function _runAfterDocumentLoaded(callback) {
+      $(document).ready(callback);
+    }
+
+    function _makeRequest(currentRetryCount) {
+      var headers = {};
+      var csrfTokenElement = document.querySelector('meta[name="csrf-token"]')
+      if (csrfTokenElement)
+        headers['X-CSRF-Token'] = csrfTokenElement.content
+
+      $.ajax({
+        url: '/partials/latest_news',
+        method: 'GET',
+        data: "",
+        headers: headers
+      }).done(function(response) {
+        var container = $("#render_async_d7ae3871dc1601369692");
+          container.replaceWith(response);
+
+        var loadEvent = createEvent('render_async_load', container);
+        document.dispatchEvent(loadEvent);
+
+      }).fail(function(response) {
+        var skipErrorMessage = false;
+
+        if (skipErrorMessage) return;
+
+        var container = $("#render_async_d7ae3871dc1601369692");
+        container.replaceWith("");
+
+        var errorEvent = createEvent('render_async_error', container);
+        errorEvent.container = container;
+        document.dispatchEvent(errorEvent);
+
+      });
+    };
+
+
+    var _renderAsyncFunction = _makeRequest;
+
+
+    _runAfterDocumentLoaded(_renderAsyncFunction)
+  }(jQuery));
+} else {
+  console.warn("Looks like you've enabled jQuery for render_async, but jQuery is not defined");
+};
+
+
+//]]>
+</script> <script>
+//<![CDATA[
+
+      if (window.jQuery) {
+  (function($) {
+    function createEvent(name, container) {
+      var event = undefined;
+      if (typeof(Event) === 'function') {
+        event = new Event(name);
+      } else {
+        event = document.createEvent('Event');
+        event.initEvent(name, true, true);
+      }
+      event.container = container
+      return event;
+    }
+
+    function _runAfterDocumentLoaded(callback) {
+      $(document).ready(callback);
+    }
+
+    function _makeRequest(currentRetryCount) {
+      var headers = {};
+      var csrfTokenElement = document.querySelector('meta[name="csrf-token"]')
+      if (csrfTokenElement)
+        headers['X-CSRF-Token'] = csrfTokenElement.content
+
+      $.ajax({
+        url: '/partials/latest_walls',
+        method: 'GET',
+        data: "",
+        headers: headers
+      }).done(function(response) {
+        var container = $("#render_async_3803425d0b1601369692");
+          container.replaceWith(response);
+
+        var loadEvent = createEvent('render_async_load', container);
+        document.dispatchEvent(loadEvent);
+
+      }).fail(function(response) {
+        var skipErrorMessage = false;
+
+        if (skipErrorMessage) return;
+
+        var container = $("#render_async_3803425d0b1601369692");
+        container.replaceWith("");
+
+        var errorEvent = createEvent('render_async_error', container);
+        errorEvent.container = container;
+        document.dispatchEvent(errorEvent);
+
+      });
+    };
+
+
+    var _renderAsyncFunction = _makeRequest;
+
+
+    _runAfterDocumentLoaded(_renderAsyncFunction)
+  }(jQuery));
+} else {
+  console.warn("Looks like you've enabled jQuery for render_async, but jQuery is not defined");
+};
+
+
+//]]>
+</script> <script>
+//<![CDATA[
+
+      if (window.jQuery) {
+  (function($) {
+    function createEvent(name, container) {
+      var event = undefined;
+      if (typeof(Event) === 'function') {
+        event = new Event(name);
+      } else {
+        event = document.createEvent('Event');
+        event.initEvent(name, true, true);
+      }
+      event.container = container
+      return event;
+    }
+
+    function _runAfterDocumentLoaded(callback) {
+      $(document).ready(callback);
+    }
+
+    function _makeRequest(currentRetryCount) {
+      var headers = {};
+      var csrfTokenElement = document.querySelector('meta[name="csrf-token"]')
+      if (csrfTokenElement)
+        headers['X-CSRF-Token'] = csrfTokenElement.content
+
+      $.ajax({
+        url: '/partials/latest_suggestions',
+        method: 'GET',
+        data: "",
+        headers: headers
+      }).done(function(response) {
+        var container = $("#render_async_3416c1a09a1601369692");
+          container.replaceWith(response);
+
+        var loadEvent = createEvent('render_async_load', container);
+        document.dispatchEvent(loadEvent);
+
+      }).fail(function(response) {
+        var skipErrorMessage = false;
+
+        if (skipErrorMessage) return;
+
+        var container = $("#render_async_3416c1a09a1601369692");
+        container.replaceWith("");
+
+        var errorEvent = createEvent('render_async_error', container);
+        errorEvent.container = container;
+        document.dispatchEvent(errorEvent);
+
+      });
+    };
+
+
+    var _renderAsyncFunction = _makeRequest;
+
+
+    _runAfterDocumentLoaded(_renderAsyncFunction)
+  }(jQuery));
+} else {
+  console.warn("Looks like you've enabled jQuery for render_async, but jQuery is not defined");
+};
+
+
+//]]>
+</script> <script>
+//<![CDATA[
+
+      if (window.jQuery) {
+  (function($) {
+    function createEvent(name, container) {
+      var event = undefined;
+      if (typeof(Event) === 'function') {
+        event = new Event(name);
+      } else {
+        event = document.createEvent('Event');
+        event.initEvent(name, true, true);
+      }
+      event.container = container
+      return event;
+    }
+
+    function _runAfterDocumentLoaded(callback) {
+      $(document).ready(callback);
+    }
+
+    function _makeRequest(currentRetryCount) {
+      var headers = {};
+      var csrfTokenElement = document.querySelector('meta[name="csrf-token"]')
+      if (csrfTokenElement)
+        headers['X-CSRF-Token'] = csrfTokenElement.content
+
+      $.ajax({
+        url: '/partials/animes_by_category',
+        method: 'GET',
+        data: "",
+        headers: headers
+      }).done(function(response) {
+        var container = $("#render_async_30d06531281601369692");
+          container.replaceWith(response);
+
+        var loadEvent = createEvent('render_async_load', container);
+        document.dispatchEvent(loadEvent);
+
+      }).fail(function(response) {
+        var skipErrorMessage = false;
+
+        if (skipErrorMessage) return;
+
+        var container = $("#render_async_30d06531281601369692");
+        container.replaceWith("");
+
+        var errorEvent = createEvent('render_async_error', container);
+        errorEvent.container = container;
+        document.dispatchEvent(errorEvent);
+
+      });
+    };
+
+
+    var _renderAsyncFunction = _makeRequest;
+
+
+    _runAfterDocumentLoaded(_renderAsyncFunction)
+  }(jQuery));
+} else {
+  console.warn("Looks like you've enabled jQuery for render_async, but jQuery is not defined");
+};
+
+
+//]]>
+</script>
+<script>
+//<![CDATA[
+var app = app || {}; app.vars = {};
+//]]>
+</script>
+
+<script src="/ads.js" type="text/javascript"></script>
+<script>
+  $(document).ready(function(){
+    if(!document.getElementById('APzUBOaIcsZD')){
+      $.confirm({
+        title: '',
+        content: '\n' +
+            'عزيزي المشاهد،  يرجى  إيقاف مانع الاعلانات من اجل التمكن من المشاهدة بسلاسة ، لانه يسبب مشاكل في المشغلات ، \n' +
+            'كما ان  السماح بإعلاناتنا بالظهور يساعدنا على الإستتمار و التطور\n' ,
+        buttons: {
+          'رجوع.': function () {
+          },
+          " اضغط هنا لمعرفة كيفية رفع المنع عن اوك انمي ": function(){
+            window.location.href= 'https://www.okanime.com/pages/ads-unbblock'
+          }
+        }
+      });
+    }
+  });
+</script>
+</body>
+</html>
